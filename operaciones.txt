@@ -5,3 +5,9 @@ se declara la libreria de entrada y salida
 #include<stdio>
 
 
+
+
+se declara la libreria2
+#include<conio.h>
+
+
